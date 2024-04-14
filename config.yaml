@@ -14,4 +14,4 @@ laia:
   llm_model: codellama
   logs_conversation_records: true
 openai:
-  api_key: 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
+  api_key: sk ...
