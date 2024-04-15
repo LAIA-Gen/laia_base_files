@@ -6,7 +6,7 @@ RUN apt-get clean
 
 RUN git clone https://github.com/flutter/flutter.git /usr/local/flutter
 WORKDIR /usr/local/flutter
-RUN git checkout flutter-3.16-candidate.0
+RUN git checkout tags/3.16.5
 
 ENV PATH="/usr/local/flutter/bin:/usr/local/flutter/bin/cache/dart-sdk/bin:${PATH}"
 

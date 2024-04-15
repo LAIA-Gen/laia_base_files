@@ -8,7 +8,8 @@
 		"vscode": {
 			"extensions": [
 				"mongodb.mongodb-vscode",
-                "dart-code.flutter"
+                "dart-code.flutter",
+				"laia.laiaextension"
 			]
 		}
 	}
