@@ -14,6 +14,8 @@ This project is a starting point for an application build with LAIA
 <img src="https://code.visualstudio.com/assets/docs/devcontainers/tutorial/dev-containers-extension.png" alt="Dev Containers" width="400">
 </p>
 
-3. Clone this repository [LAIA Base Files](https://github.com/albieta/laia_base_files) 
+2. Clone this repository [LAIA Base Files](https://github.com/albieta/laia_base_files) 
 
-4. Open the project on VS Code and from the Command Palette (Ctrl+Shift+P) type `>Dev Containers: Reopen in Container`
+3. Open the project on VS Code and from the Command Palette (Ctrl+Shift+P) type `>Dev Containers: Reopen in Container`
+
+4. Open the LAIA chat from the Command Palette (Ctrl+Shift+P) typing `>Laia Chat :)`
